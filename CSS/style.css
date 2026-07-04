@@ -381,6 +381,9 @@ h2 {
 .time .count{
   font-size: 14px;
 }
+    .desc{
+    padding: 24px 20px;
+  }
 .Nutrition{
   overflow-y: scroll;
   overflow-x: hidden;
